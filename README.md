@@ -16,8 +16,8 @@ This project is a basic calculator implemented using HTML, CSS, and JavaScript. 
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/your-username/basic-calculator.git
+   ```
   
-
 2. **Navigate to the Project Directory:**
    ```sh
    cd basic-calculator
